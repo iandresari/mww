@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "HAL",
+  "wake_word": "hal",
   "author": "iandresari",
   "website": "https://github.com/iandresari",
-  "model": "./hal.tflite",
+  "model": "hal.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
