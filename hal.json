@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "HAL",
+  "author": "iandresari",
+  "website": "https://github.com/iandresari",
+  "model": "./hal.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
